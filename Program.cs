@@ -7,7 +7,8 @@ namespace BasicsofCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            PrimitiveTypes.Do();
+            //PrimitiveTypes.Do();
+            FlowControl.Do();
         }
     }
 }
